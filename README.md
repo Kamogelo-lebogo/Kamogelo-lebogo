@@ -1,8 +1,19 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></p>
-<br><br>
-# 💫 About Me:
--👋 Hi there! I'm Kamo,a Software Systems student at Dynamic DNA. 🚀 Currently honing my skills in building dynamic and responsive web applications.<br></br>-💻 I'm proficient in:<br>-HTML | CSS<br><br>-🌱 Currently learning and exploring:<br>-C#<br>-JavaScript | React
+<br>
+<h1 align="center">💫 About Me:</h1>
+<h3 align="center">👋 Hi there! I'm Kamo, a Software Systems student at Dynamic DNA. 🚀 Currently honing my skills in building dynamic and responsive web applications.</p></h3>
+<p>💻 I'm proficient in:
+<p>
+  <b><li>HTML</li></b>
+  <b><li>CSS</li></b>
+</p>
 
+<h4>🌱 Currently learning and exploring:</h4>
+<p>
+   <b><li>C#</li><br>
+   <li>JavaScript</li><br>
+   <li>React</li></b>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kamo-lebogo1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/weird_kamo) 
@@ -16,8 +27,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kamogelo-lebogo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 Kamogelo-lebogo/Kamogelo-lebogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
